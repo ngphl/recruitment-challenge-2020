@@ -1,2 +1,3 @@
-# recruitment-challenge-2020
- Recruitment challenge based on AEMO electricity demand 
+# Synengco Recruitment Challenge
+
+Recruitment challenge based on AEMO electricity demand 
